@@ -18,10 +18,8 @@ public class Product {
 	private String codigoBarras;
 	
 	
-	public Product() {
-		
-	}
-	
+//	public Product() {
+//	}
 	
 	public Product(String nome, String descricao, Double preco, String nomeFabricante, String codigoBarras) {
 		super();
